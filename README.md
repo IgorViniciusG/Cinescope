@@ -45,12 +45,9 @@ utils
 
 ## 📸 Preview
 
-*(Adicione aqui screenshots do projeto)*
-
-Exemplo:
 
 ```
-/public/preview-home.png
+/public/next.svg
 /public/preview-movie.png
 ```
 
