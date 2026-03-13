@@ -47,7 +47,8 @@ utils
 
 
 ```
-/public/next.svg
+![Home](./public/next.svg)
+/public/
 /public/preview-movie.png
 ```
 
