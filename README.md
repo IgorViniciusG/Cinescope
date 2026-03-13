@@ -47,7 +47,7 @@ utils
 ## 📸 Preview
 
 <p align="center">
-  <img src="public/next.svg" width="800">
+  <img src="public/preview-home.png" width="800">
 </p>
 
 <p align="center">
