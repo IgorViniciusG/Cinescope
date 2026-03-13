@@ -43,14 +43,17 @@ utils
 
 ---
 
+
 ## 📸 Preview
 
+<p align="center">
+  <img src="public/next.svg" width="800">
+</p>
 
-```
-![Home](./public/next.svg)
-/public/
-/public/preview-movie.png
-```
+<p align="center">
+  <img src="public/preview-movie.png" width="800">
+</p>
+
 
 ---
 
