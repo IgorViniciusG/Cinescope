@@ -1,38 +1,130 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🎬 Cinescope
 
-## Getting Started
+Aplicação web de catálogo de filmes inspirada em plataformas de streaming.
+O projeto permite explorar filmes, visualizar informações detalhadas como sinopse, elenco, gênero e duração, utilizando renderização híbrida com **Next.js**.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## 🚀 Tecnologias Utilizadas
+
+* **Next.js**
+* **React**
+* **TypeScript**
+* **CSS**
+* **ESLint**
+* **Prettier**
+
+---
+
+## ⚙️ Conceitos Aplicados
+
+* **Server Side Rendering (SSR)**
+* **Client Side Rendering (CSR)**
+* **Arquitetura modular de frontend**
+* Separação de responsabilidades utilizando:
+
+```
+components
+containers
+domain
+configs
+utils
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🎥 Funcionalidades
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+* Listagem de filmes
+* Página de detalhes do filme
+* Exibição de sinopse e informações completas
+* Interface inspirada em plataformas de streaming
+* Navegação entre páginas utilizando **Next.js**
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 📸 Preview
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+*(Adicione aqui screenshots do projeto)*
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Exemplo:
 
-## Deploy on Vercel
+```
+/public/preview-home.png
+/public/preview-movie.png
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# blog-next
-# blog-next
+## 📦 Instalação e Execução
+
+Clone o repositório:
+
+```
+git clone https://github.com/Igor9090/cinescope
+```
+
+Entre na pasta do projeto:
+
+```
+cd cinescope
+```
+
+Instale as dependências:
+
+```
+npm install
+```
+
+Execute o projeto:
+
+```
+npm run dev
+```
+
+Acesse no navegador:
+
+```
+http://localhost:3000
+```
+
+---
+
+## 📁 Estrutura do Projeto
+
+```
+src
+ ├ components
+ ├ configs
+ ├ containers
+ ├ data
+ ├ domain
+ ├ pages
+ ├ styles
+ └ utils
+```
+
+Essa organização foi criada para melhorar a **manutenção e escalabilidade da aplicação**.
+
+---
+
+## 🎯 Objetivo do Projeto
+
+Este projeto foi desenvolvido com o objetivo de praticar:
+
+* Desenvolvimento de aplicações com **Next.js**
+* Renderização híbrida (**SSR e CSR**)
+* Organização de código em aplicações React
+* Boas práticas de arquitetura frontend
+
+---
+
+## 👨‍💻 Autor
+
+**Igor Vinicius Gonçalves da Silva**
+
+GitHub
+https://github.com/IgorViniciusG
+
+LinkedIn
+https://www.linkedin.com/in/igorvn-silva/
